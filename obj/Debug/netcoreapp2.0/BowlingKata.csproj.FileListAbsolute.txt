@@ -1,0 +1,11 @@
+/Users/jmcgee/Documents/BowlingKata/bin/Debug/netcoreapp2.0/BowlingKata.deps.json
+/Users/jmcgee/Documents/BowlingKata/bin/Debug/netcoreapp2.0/BowlingKata.runtimeconfig.json
+/Users/jmcgee/Documents/BowlingKata/bin/Debug/netcoreapp2.0/BowlingKata.runtimeconfig.dev.json
+/Users/jmcgee/Documents/BowlingKata/bin/Debug/netcoreapp2.0/BowlingKata.dll
+/Users/jmcgee/Documents/BowlingKata/bin/Debug/netcoreapp2.0/BowlingKata.pdb
+/Users/jmcgee/Documents/BowlingKata/obj/Debug/netcoreapp2.0/BowlingKata.csprojAssemblyReference.cache
+/Users/jmcgee/Documents/BowlingKata/obj/Debug/netcoreapp2.0/BowlingKata.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/BowlingKata/obj/Debug/netcoreapp2.0/BowlingKata.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/BowlingKata/obj/Debug/netcoreapp2.0/BowlingKata.AssemblyInfo.cs
+/Users/jmcgee/Documents/BowlingKata/obj/Debug/netcoreapp2.0/BowlingKata.dll
+/Users/jmcgee/Documents/BowlingKata/obj/Debug/netcoreapp2.0/BowlingKata.pdb
