@@ -72,12 +72,6 @@ namespace BowlingKata
             
             return score;
         }
-
-        public int Spare(int[]scoresArray, int frame)
-        {
-            int spareScore =0;
-            return spareScore;
-        }
     }
     class Program
     {
